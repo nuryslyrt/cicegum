@@ -1,0 +1,30 @@
+body, td, textarea, select, blockquote{font: 95%/190% "Trebuchet MS", Tahoma, Arial;}
+.giris_td{padding-bottom:20px;}
+a{color:#900; text-decoration:none;}
+a:hover{color:#333; text-decoration:underline;}
+input{size:20px;}
+
+html,
+body {
+   margin: 0;
+   padding:0;
+   height:100%;
+}
+
+#container {
+   min-height:100%;
+   position:relative;
+}
+
+#header {
+   background:#6cf;
+   padding:10px;
+}
+
+#body {
+   padding:10px;
+   padding-bottom:60px;   /* Height of the footer */
+   text-align: center;
+   margin:0px 0px 0px 0px;
+}
+
